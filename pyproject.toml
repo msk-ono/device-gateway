@@ -45,7 +45,7 @@ dev = [
     "pymarkdownlnt>=0.9.38",
 ]
 qubex = [
-    "qubex[backend]",
+    "qubex[quel1,quel3]",
 ]
 
 [build-system]
